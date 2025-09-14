@@ -4,6 +4,10 @@ public class App1 {
 
         Product product1 = new Product("Bubblegum", 134, 50000, true);
         product1.display();
+	
+	Product product2 = new Product();
+        product2.display();
+
 
     }
 
