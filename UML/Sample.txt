@@ -1,0 +1,11 @@
+ -----------------------------
+|         Class name           |
+ -----------------------------
+| - name   : String          |
+| - salary : double          |
+ -----------------------------
+| + Employee(n:String, s:double) |
+| + getName()  : String          |
+| + setName(n:String) : void     |
+| + getSalary() : double         |
+ -----------------------------
