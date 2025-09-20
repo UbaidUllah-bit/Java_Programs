@@ -18,8 +18,8 @@ public class TestStudent{
 		System.out.println(S4);
 		System.out.println(S5);
 
-	System.out.println("If student 2 name and Date of Birth is the same as student 4 : " + (S2.equals(S4) && S2.getDateOfBirth().equals(S4.getDateOfBirth())));
-	System.out.println("If student 3 name  and Date of Birth is the same as student 4 : " + (S3.equals(S4) && S3.getDateOfBirth().equals(S4.getDateOfBirth())));
+	System.out.println("If student 2 record is the same as student 4 : " + (S2.equals(S4) && S2.getDateOfBirth().equals(S4.getDateOfBirth()) && S2.getGender().equals(S4.getGender()) && S2.getAddress().equals(S4.getAddress())));
+	System.out.println("If student 3 record is the same as student 4 : " + (S3.equals(S4) && S3.getDateOfBirth().equals(S4.getDateOfBirth()) && S3.getGender().equals(S4.getGender()) && S3.getAddress().equals(S4.getAddress())));
 
 
 
