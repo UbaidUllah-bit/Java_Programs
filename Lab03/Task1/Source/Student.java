@@ -9,27 +9,16 @@ public class Student{
 	static int counter = 0;
 
 	Student(){
-	this.studentId = "SP25-BCS-00"+ counter++;
-	this.gender = gender;
+	this.studentId = String.format("SP25-BCS-%03d", ++counter);
+	
 
-
-
-}
-
-	Student(String studentId, String name, char gender, String dateOfBirth, String address){
-
-	this.studentId = "SP25-BCS-"+ counter++;
-	this.name = name;
-	this.gender = gender;
-	this.dateOfBirth = dateOfBirth;
-	this.address = address;
 
 
 }
 
 	Student( String name, char gender, String dateOfBirth, String address){
 
-	this.studentId = "SP25-BCS-"+ counter++;
+	this.studentId = String.format("SP25-BCS-%03d", ++counter);
 	this.name = name;
 	this.gender = gender;
 	this.dateOfBirth = dateOfBirth;
@@ -37,6 +26,7 @@ public class Student{
 
 
 }
+
 
 	Student( Student s){
 
@@ -122,7 +112,7 @@ public class Student{
 	@Override
 	public String toString(){
 
-		return String.format("Student Id: %s%nName: %s%nGender: %c%n DOB: %s%n Address: %s%n",studentId, name, gender, dateOfBirth, address );
+		return String.format(" [ Student Id: %s Name: %s Gender: %c DOB: %s Address: %s ]",studentId, name, gender, dateOfBirth, address );
 }
 
 
