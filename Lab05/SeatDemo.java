@@ -7,6 +7,12 @@ public class SeatDemo{
 		System.out.println(seat.bookSeat());
 		System.out.println(seat.cancelBooking());
 		System.out.println(seat.getAvailability());
+        
+        
+        Screen screen1 = new Screen("CinemaTachi");
+        System.out.println(screen1.getTotalSeats());
+        System.out.println(screen1);
+    
 		
 
 

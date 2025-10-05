@@ -5,12 +5,21 @@ public class Seat{
     private Type type;
     private boolean isAvailable;
     private int price;
+    private int availabilityCount = 0;
         
     Seat(int row, int column, Type type){
     
         id = String.format("%d-%03d", row, column);
         this.type = type;
         isAvailable = true;
+    
+        if(isAvailable == true){
+
+            availabilityCount++;
+        }
+
+        if 
+        
         this.price = type.getPrice();
         
     }
@@ -21,7 +30,7 @@ public class Seat{
 
             isAvailable = false;
 
-            return "Seat is available";            
+            return "Seat has been booked successfully!";            
     
         }
 
@@ -86,6 +95,12 @@ public class Seat{
     public int getPrice(){
 
         return price;
+
+    }
+
+    public int getAvailabilityCount(){
+
+        return availabilityCount;        
 
     }
     
