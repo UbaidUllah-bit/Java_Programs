@@ -3,18 +3,19 @@ public class Screen{
 
     private String screenName;
 
-    Seat seats[][] = new Seat[8][];
+    //made changes in line 7
+    private final Seat seats[][] = new Seat[8][];
+
+    /*Screen(String screenName){
+
+        this();
+        
+
+    }*/
 
     Screen(String screenName){
 
-        this();
         this.screenName = screenName;
-
-    }
-
-    Screen(){
-
-
         //initializing columns
         for(int i = 0; i < seats.length; i++){
 
@@ -65,7 +66,7 @@ public class Screen{
 
         for(int i = 0; i < 2; i++){
     
-            for(Seat row: seats[i]){
+            for(Seat s: seats[i]){
 
                 total++;
 
@@ -84,7 +85,7 @@ public class Screen{
 
         for(int i = 2; i < 4; i++){
     
-            for(Seat row: seats[i]){
+            for(Seat s: seats[i]){
 
                 total++;
 
@@ -103,7 +104,7 @@ public class Screen{
 
         for(int i = 4; i < 6; i++){
     
-            for(Seat row: seats[i]){
+            for(Seat s: seats[i]){
 
                 total++;
 
@@ -122,7 +123,7 @@ public class Screen{
 
         for(int i = 6; i < 8; i++){
     
-            for(Seat row: seats[i]){
+            for(Seat s: seats[i]){
 
                 total++;
 
@@ -139,13 +140,132 @@ public class Screen{
 
         int total = 0;
         
-        for(Seat[] row: seats){
+        for(Seat[] seat: seats){
 
-            total += row.length;
+            total += seat.length;
 
         }
         
         return total;        
+
+    }
+
+    public String getScreenName(){
+
+        return screenName;
+
+    }
+
+    public int getRowCount(){
+
+        return seats.length;
+
+    }
+
+    public void display(){
+
+        for(Seat[] s: seats){
+
+            System.out.println("\n");
+
+            for(Seat a: s){
+
+                System.out.println(a);
+
+            }
+
+        }
+    
+    }
+
+    public void simpleDisplay(){
+
+        System.out.println("=== " + screenName + " | Layout ===");
+
+        for(int i = 0; i < seats.length; i++){
+
+            StringBuilder str = new StringBuilder();
+
+            for(int j = 0; j < seats[i].length; j++){
+
+                Seat s = seats[i][j];
+                char mark = (s.getAvailability() ? 'A' : 'X');
+                str.append(String.format("[%s:%c] ", s.getId(), mark)); 
+                
+            }
+            
+            System.out.println(str.toString());
+        }
+
+        System.out.printf("Total Seats: %d, Available Seats: %d%n%n", getTotalRegularSeats(), getAvailableSeatCount());
+
+    }
+
+    public Seat getSeat(int row, int column){
+
+        return seats[row][column];
+
+    }
+    
+    public boolean bookSeat(int row, int column){
+
+        Seat s = getSeat(row, column);
+    
+        return s.bookSeat(); //here book seat method is from seat class
+
+    }
+
+    public boolean cancelSeat(int row, int column){
+
+        Seat s = getSeat(row, column);
+    
+        return s.cancelBooking();
+
+    }
+
+    public int getAvailableSeatByType(Type type){
+
+        int count = 0;
+
+        for(Seat[] row : seats){
+
+            for(Seat seat : row){
+
+                if(seat.getSeatType() == type && seat.getAvailability()){
+
+                    count ++;
+
+                }
+
+            }
+
+
+        }
+
+        return count;
+
+    }
+
+    public int getAvailableSeatCount(){
+
+       int count = 0;
+        
+        for(Seat[] row : seats ){
+
+            for(Seat seat : row){
+
+                if(seat.getAvailability()){
+
+                    count ++;
+
+                }
+
+            }
+
+        }
+
+        return count;        
+
 
     }
 
@@ -155,11 +275,11 @@ public class Screen{
 
         StringBuilder str = new StringBuilder();
         
-        str.append("\t\t==================================\n\t\t\t");
+        str.append("\n\t\t=========================\n\t\t\t");
 
         str.append(screenName);
         
-        str.append("\n\t\t==================================\n");
+        str.append("\n\t\t=========================\n");
 
 
             for(Seat[] s: seats){

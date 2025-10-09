@@ -17,45 +17,44 @@ public class Seat{
 
             availabilityCount++;
         }
-
-        if 
         
         this.price = type.getPrice();
         
     }
 
-    public String bookSeat(){
+    public boolean bookSeat(){
 
         if(isAvailable){
 
             isAvailable = false;
+            availabilityCount--;
 
-            return "Seat has been booked successfully!";            
+            return true;            
     
         }
 
         else{
 
-            return "not available";
+            return false;
 
         }
 
 
     }
 
-    public String cancelBooking(){
+    public boolean cancelBooking(){
 
         if(!isAvailable){
 
             isAvailable = true;
-
-            return "Seat has been cancelled";            
+            availabilityCount++;
+            return true;            
     
         }
 
         else{
 
-            return "Seat not booked yet";
+            return false;
 
         }
 
@@ -68,11 +67,6 @@ public class Seat{
 
     }
 
-    public void setPrice(){
-
-        this.price = price;
-
-    }
 
     public String getId(){
 
