@@ -1,15 +1,14 @@
 package sp25_bcs_134;
+
 public class ScreenDemo {
+
     public static void main(String[] args) {
 
-        // --- Initialize city data (Pakistan cities) ---
-        // Using the CityCinema constructor to create cities with pre-populated cinemas and screens
         CityCinema karachi = new CityCinema("Karachi", 2, 3);
         CityCinema lahore = new CityCinema("Lahore", 1, 2);
         CityCinema islamabad = new CityCinema("Islamabad", 2, 2);
 
-        // --- Display initial layouts for each city ---
-
+        // --- Displaying initial layouts of each city ---
         
         System.out.println("--- Cinema Management System ---");
         System.out.println("Initial Layouts:");
@@ -22,7 +21,7 @@ public class ScreenDemo {
         boolean booked = karachi.book("Cinema-1", "Screen-1", "3-007");
         System.out.println("Booking success? " + booked);
 
-        System.out.println("\n>>> Trying to book the same seat again (expected failure)");
+        System.out.println("\n>>> Trying to book the same seat again (failure is expected)");
         boolean bookedAgain = karachi.book("Cinema-1", "Screen-1", "3-007");
         System.out.println("Second booking success? " + bookedAgain);
 
@@ -44,5 +43,7 @@ public class ScreenDemo {
         System.out.println("\n>>> Finding first available VIP seat in Karachi:");
         String vipSeat = karachi.findFirstAvailablePretty(Type.Vip);
         System.out.println(vipSeat != null ? vipSeat : "No VIP seat available.");
+
     }
+
 }

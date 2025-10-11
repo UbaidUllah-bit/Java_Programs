@@ -1,7 +1,9 @@
 package sp25_bcs_134;
 
 public class SeatDemo {
+
     public static void main(String[] args) {
+
         System.out.println("--- Cinema Management System ---");
 
         // Constructing seats of different types
