@@ -8,38 +8,36 @@ public class ScreenDemo {
         CityCinema lahore = new CityCinema("Lahore", 1, 2);
         CityCinema islamabad = new CityCinema("Islamabad", 2, 2);
 
-        // --- Displaying initial layouts of each city ---
-        
+        //Preliminary layouts of each city 
         System.out.println("--- Cinema Management System ---");
         System.out.println("Initial Layouts:");
         karachi.simpleDisplay();
         lahore.simpleDisplay();
         islamabad.simpleDisplay();
 
-        // --- Demo booking and cancellation workflow ---
+        //Booking a seat using cinemaName, screenName and seatId
         System.out.println(">>> Booking seat 3-007 in Karachi, Cinema-1, Screen-1");
-        boolean booked = karachi.book("Cinema-1", "Screen-1", "3-007");
-        System.out.println("Booking success? " + booked);
+        System.out.println("Booking success? " + karachi.book("Cinema-1", "Screen-1", "3-007"));
 
+        //Trying to book the same seat using cinemaName, screenName and seatId
         System.out.println("\n>>> Trying to book the same seat again (failure is expected)");
-        boolean bookedAgain = karachi.book("Cinema-1", "Screen-1", "3-007");
-        System.out.println("Second booking success? " + bookedAgain);
+        System.out.println("Second booking success? " + karachi.book("Cinema-1", "Screen-1", "3-007"));
 
-        System.out.println("\n>>> Canceling the booking");
-        boolean cancelled = karachi.cancel("Cinema-1", "Screen-1", "3-007");
-        System.out.println("Cancellation success? " + cancelled);
+        //Cancelling a booked seat
+        System.out.println("\n>>> Cancelling the booking");
+        System.out.println("Cancellation success? " + karachi.cancel("Cinema-1", "Screen-1", "3-007"));
 
-        // --- Show updated layout after operations ---
+        // updated layout after operations
         System.out.println("\nUpdated Layout for Karachi:");
         karachi.simpleDisplay();
 
-        // --- Display city-wide stats ---
+        //Displaying city-wide stats
         System.out.println("City Stats:");
         System.out.println(karachi);
         System.out.println(lahore);
         System.out.println(islamabad);
 
-        // --- Search for first available VIP seat ---
+        //Searching for first available VIP seat
         System.out.println("\n>>> Finding first available VIP seat in Karachi:");
         String vipSeat = karachi.findFirstAvailablePretty(Type.Vip);
         System.out.println(vipSeat != null ? vipSeat : "No VIP seat available.");

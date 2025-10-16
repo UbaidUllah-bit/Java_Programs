@@ -231,7 +231,7 @@ public class CityCinema {
     @Override
     public String toString() {
         
-        return String.format("CityCinema{city='%s', cinemas=%d, totalSeats=%d, available=%d}", getCityName(), getCinemaCount(), getTotalSeatCount(), getAvailableSeatCount());
+        return String.format("CityCinema [city='%s', cinemas=%d, totalSeats=%d, available=%d]", getCityName(), getCinemaCount(), getTotalSeatCount(), getAvailableSeatCount());
 
     }
 
