@@ -1,8 +1,8 @@
 package sp25_bcs_134;
 
-public class ScreenDemo {
+public class CinemaDemo{
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
 
         CityCinema karachi = new CityCinema("Karachi", 2, 3);
         CityCinema lahore = new CityCinema("Lahore", 1, 2);
