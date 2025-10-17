@@ -1,0 +1,23 @@
+--- Cinema Management System ---
+
+>>> Making few seats:
+New Regular Seat: [0-001]-Regular-500: true
+New VIP Seat: [4-007]-Vip-1000: true
+New Recliner Seat: [7-009]-Recliner-1200: true
+
+>>> Demonstrating a booking:
+Booking the VIP seat...
+Booking successful? true
+VIP Seat after booking: [4-007]-Vip-1000: false
+
+>>> Attempting to book the same seat again:
+Second booking successful? false
+VIP Seat after failed attempt: [4-007]-Vip-1000: false
+
+>>> Cancelling the booking:
+Cancellation successful? true
+VIP Seat after cancellation: [4-007]-Vip-1000: true
+
+>>> Checking for a seat that was never booked:
+Cancellation on an unbooked seat successful? false
+Regular Seat state: [0-001]-Regular-500: true
