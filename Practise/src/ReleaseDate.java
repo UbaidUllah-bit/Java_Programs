@@ -1,6 +1,6 @@
 public class ReleaseDate{
 
-    private int day;
+/*    private int day;
     private Month month;
     private int year;
 
@@ -111,5 +111,5 @@ public class ReleaseDate{
            
     
     }
-
+*/
 }
