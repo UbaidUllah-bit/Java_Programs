@@ -1,0 +1,128 @@
+--- LAHORE HOUSING SOCIETY MANAGEMENT SYSTEM ---
+
+--- 1. INITIAL SYSTEM STATE ---
+City-wide Available Plots: 360
+
+Society: LDA Avenue 1 | Blocks: 3 | Total Plots: 180 | Available: 180
+Compact Layout for Block Block A:
+  Street 1 (Residential 5 Marla): [[A][A][A][A][A][A][A][A][A][A]]
+  Street 2 (Residential 10 Marla): [[A][A][A][A][A][A][A][A][A][A][A]]
+  Street 3 (Residential 1 Kanal): [[A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 4 (Commercial Shop): [[A][A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 5 (Commercial Office): [[A][A][A][A][A][A][A][A][A][A][A][A][A][A]]
+
+
+Block Block A Amenities:
+  Market: Commercial Market (Total Shops: 15, Vacant: 15)
+    Vacant Shops (IDs): Block A-S01, Block A-S02, Block A-S03, Block A-S04, Block A-S05, Block A-S06, Block A-S07, Block A-S08, Block A-S09, Block A-S10, Block A-S11, Block A-S12, Block A-S13, Block A-S14, Block A-S15
+  Parks (Total: 2):
+    Block A Park 1 (Rectangular) (RECTANGLE) | Area: 5000.0 su
+    Block A Park 2 (L-Shape) (L_SHAPE) | Area: 1800.0 su
+
+Compact Layout for Block Block B:
+  Street 1 (Residential 5 Marla): [[A][A][A][A][A][A][A][A][A][A]]
+  Street 2 (Residential 10 Marla): [[A][A][A][A][A][A][A][A][A][A][A]]
+  Street 3 (Residential 1 Kanal): [[A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 4 (Commercial Shop): [[A][A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 5 (Commercial Office): [[A][A][A][A][A][A][A][A][A][A][A][A][A][A]]
+
+
+Block Block B Amenities:
+  Market: Commercial Market (Total Shops: 15, Vacant: 15)
+    Vacant Shops (IDs): Block B-S01, Block B-S02, Block B-S03, Block B-S04, Block B-S05, Block B-S06, Block B-S07, Block B-S08, Block B-S09, Block B-S10, Block B-S11, Block B-S12, Block B-S13, Block B-S14, Block B-S15
+  Parks (Total: 2):
+    Block B Park 1 (Rectangular) (RECTANGLE) | Area: 5000.0 su
+    Block B Park 2 (L-Shape) (L_SHAPE) | Area: 1800.0 su
+
+Compact Layout for Block Block C:
+  Street 1 (Residential 5 Marla): [[A][A][A][A][A][A][A][A][A][A]]
+  Street 2 (Residential 10 Marla): [[A][A][A][A][A][A][A][A][A][A][A]]
+  Street 3 (Residential 1 Kanal): [[A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 4 (Commercial Shop): [[A][A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 5 (Commercial Office): [[A][A][A][A][A][A][A][A][A][A][A][A][A][A]]
+
+
+Block Block C Amenities:
+  Market: Commercial Market (Total Shops: 15, Vacant: 15)
+    Vacant Shops (IDs): Block C-S01, Block C-S02, Block C-S03, Block C-S04, Block C-S05, Block C-S06, Block C-S07, Block C-S08, Block C-S09, Block C-S10, Block C-S11, Block C-S12, Block C-S13, Block C-S14, Block C-S15
+  Parks (Total: 2):
+    Block C Park 1 (Rectangular) (RECTANGLE) | Area: 5000.0 su
+    Block C Park 2 (L-Shape) (L_SHAPE) | Area: 1800.0 su
+
+
+Society: LDA Avenue 2 | Blocks: 3 | Total Plots: 180 | Available: 180
+Compact Layout for Block Block A:
+  Street 1 (Residential 5 Marla): [[A][A][A][A][A][A][A][A][A][A]]
+  Street 2 (Residential 10 Marla): [[A][A][A][A][A][A][A][A][A][A][A]]
+  Street 3 (Residential 1 Kanal): [[A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 4 (Commercial Shop): [[A][A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 5 (Commercial Office): [[A][A][A][A][A][A][A][A][A][A][A][A][A][A]]
+
+
+Block Block A Amenities:
+  Market: Commercial Market (Total Shops: 15, Vacant: 15)
+    Vacant Shops (IDs): Block A-S01, Block A-S02, Block A-S03, Block A-S04, Block A-S05, Block A-S06, Block A-S07, Block A-S08, Block A-S09, Block A-S10, Block A-S11, Block A-S12, Block A-S13, Block A-S14, Block A-S15
+  Parks (Total: 2):
+    Block A Park 1 (Rectangular) (RECTANGLE) | Area: 5000.0 su
+    Block A Park 2 (L-Shape) (L_SHAPE) | Area: 1800.0 su
+
+Compact Layout for Block Block B:
+  Street 1 (Residential 5 Marla): [[A][A][A][A][A][A][A][A][A][A]]
+  Street 2 (Residential 10 Marla): [[A][A][A][A][A][A][A][A][A][A][A]]
+  Street 3 (Residential 1 Kanal): [[A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 4 (Commercial Shop): [[A][A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 5 (Commercial Office): [[A][A][A][A][A][A][A][A][A][A][A][A][A][A]]
+
+
+Block Block B Amenities:
+  Market: Commercial Market (Total Shops: 15, Vacant: 15)
+    Vacant Shops (IDs): Block B-S01, Block B-S02, Block B-S03, Block B-S04, Block B-S05, Block B-S06, Block B-S07, Block B-S08, Block B-S09, Block B-S10, Block B-S11, Block B-S12, Block B-S13, Block B-S14, Block B-S15
+  Parks (Total: 2):
+    Block B Park 1 (Rectangular) (RECTANGLE) | Area: 5000.0 su
+    Block B Park 2 (L-Shape) (L_SHAPE) | Area: 1800.0 su
+
+Compact Layout for Block Block C:
+  Street 1 (Residential 5 Marla): [[A][A][A][A][A][A][A][A][A][A]]
+  Street 2 (Residential 10 Marla): [[A][A][A][A][A][A][A][A][A][A][A]]
+  Street 3 (Residential 1 Kanal): [[A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 4 (Commercial Shop): [[A][A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 5 (Commercial Office): [[A][A][A][A][A][A][A][A][A][A][A][A][A][A]]
+
+
+Block Block C Amenities:
+  Market: Commercial Market (Total Shops: 15, Vacant: 15)
+    Vacant Shops (IDs): Block C-S01, Block C-S02, Block C-S03, Block C-S04, Block C-S05, Block C-S06, Block C-S07, Block C-S08, Block C-S09, Block C-S10, Block C-S11, Block C-S12, Block C-S13, Block C-S14, Block C-S15
+  Parks (Total: 2):
+    Block C Park 1 (Rectangular) (RECTANGLE) | Area: 5000.0 su
+    Block C Park 2 (L-Shape) (L_SHAPE) | Area: 1800.0 su
+
+
+--- 2. WORKFLOW SIMULATION ---
+
+Attempting to book: LDA Avenue 1 > Block A-3-007
+  Booking result (3-007): SUCCESS
+Attempting to book: LDA Avenue 1 > Block A-3-007 (AGAIN)!
+  Booking result (3-007): FAILED (Already Booked)
+Attempting to book shop: Block C-S01
+  Shop Booking result: SUCCESS
+
+Attempting to cancel booking: LDA Avenue 1 > Block A-3-007
+  Cancellation result: SUCCESS
+
+-- State Check: Block A, Street 3 (RES_1_KANAL) --
+Compact Layout for Block Block A:
+  Street 1 (Residential 5 Marla): [[A][A][A][A][A][A][A][A][A][A]]
+  Street 2 (Residential 10 Marla): [[A][A][A][A][A][A][A][A][A][A][A]]
+  Street 3 (Residential 1 Kanal): [[A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 4 (Commercial Shop): [[A][A][A][A][A][A][A][A][A][A][A][A][A]]
+  Street 5 (Commercial Office): [[A][A][A][A][A][A][A][A][A][A][A][A][A][A]]
+
+
+ First available RES_1_KANAL CornerPlot:
+  -> LDA Avenue 1 > Block A > Plot 3-004 (RES_1_KANAL CORNER, area 1600.0 su, 15120000 PKR).
+
+ First three vacant shops in LDA Avenue 1, Block C:
+  -> Block C-S02, Block C-S03, Block C-S04
+
+ Largest available plot by area in LDA Avenue 2, Block B:
+  -> 1-001 (Residential 5 Marla) | Area: 2000.0 su | Price: 4000000 PKR | Status: Available
