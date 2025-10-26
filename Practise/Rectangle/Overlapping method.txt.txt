@@ -1,0 +1,32 @@
+public Rectangle rectangleIntersection(Rectangle r){
+
+		//vice versa for LeftEdge
+		//int intersectionLeftEdge = Math.max(this.bottomleftcorner.x, r.bottomleftcorner.x);
+		int intersectionLeftEdge = Math.max(this.topleftcorner.x, r.topleftcorner.x);
+		
+		//vice versa for RightEdge
+		//int intersectionRightEdge = Math.min(this.bottomrightcorner.x, r.bottomrightcorner.x);
+		int intersectionRightEdge = Math.min(this.toprightcorner.x, r.toprightcorner.x);
+		
+		//vice versa for TopEdge
+		//int intersectionTopEdge = Math.min(this.toprightcorner.y, r.toprightcorner.y);
+		int intersectionTopEdge = Math.min(this.topleftcorner.y, r.topleftcorner.y);
+
+		//vice versa for BottomEdge
+		//int intersectionBottomEdge = Math.max(this.bottomleftcorner.y, r.bottomleftcorner.y);
+		int intersectionBottomEdge = Math.max(this.bottomrightcorner.y, r.bottomrightcorner.y);
+		
+		if (intersectionLeftEdge >= intersectionRightEdge || intersectionBottomEdge >= intersectionTopEdge) {
+        		
+			return null;
+		} 
+		
+		Point newTopLeft = new Point(intersectionLeftEdge, intersectionTopEdge);
+    		Point newTopRight = new Point(intersectionRightEdge, intersectionTopEdge);
+    		Point newBottomLeft = new Point(intersectionLeftEdge, intersectionBottomEdge);
+    		Point newBottomRight = new Point(intersectionRightEdge, intersectionBottomEdge);
+	
+		return new Rectangle(newTopLeft, newTopRight, newBottomLeft, newBottomLeft);
+	
+		
+	}

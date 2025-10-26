@@ -1,0 +1,100 @@
+Dimensions: Height: 2.53 | Width: 6.10 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 5.38 | Width: 5.82 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 5.14 | Width: 6.46 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 4.40 | Width: 3.29 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 7.95 | Width: 1.88 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 7.52 | Width: 8.53 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 1.19 | Width: 2.31 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 1.19 | Width: 2.31 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 9.68 | Width: 3.30 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 2.94 | Width: 9.36 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 6.68 | Width: 6.81 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 6.79 | Width: 6.18 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 5.38 | Width: 2.20 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 4.62 | Width: 8.29 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 1.94 | Width: 7.76 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 7.10 | Width: 7.71 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 7.32 | Width: 2.38 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 4.87 | Width: 5.71 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 3.66 | Width: 9.00 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 9.81 | Width: 2.76 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 4.26 | Width: 6.37 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 4.81 | Width: 4.12 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 8.63 | Width: 3.15 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 6.30 | Width: 4.75 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 1.77 | Width: 5.92 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 2.04 | Width: 6.71 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 7.04 | Width: 9.65 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 6.71 | Width: 9.83 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 6.81 | Width: 5.43 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 5.19 | Width: 6.38 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 4.41 | Width: 1.54 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 2.31 | Width: 6.73 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 4.75 | Width: 2.04 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 2.68 | Width: 6.63 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 2.30 | Width: 5.71 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 8.53 | Width: 1.39 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 6.16 | Width: 9.95 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 4.12 | Width: 9.44 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 7.32 | Width: 6.37 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 2.11 | Width: 2.03 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 9.05 | Width: 3.15 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 5.01 | Width: 6.79 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 5.30 | Width: 4.06 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 9.29 | Width: 2.16 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 3.39 | Width: 3.77 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 6.63 | Width: 5.79 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 1.49 | Width: 8.53 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 1.06 | Width: 1.68 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 3.05 | Width: 5.64 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
+Dimensions: Height: 9.43 | Width: 2.28 , Color: Magenta
+Co-ordinate-1: (2, 5) | Co-ordinate-2: (5, 5) | Co-ordinate-3: (5, 3) | Co-ordinate-4: (2, 3)
