@@ -1,0 +1,50 @@
+/*
+User & System Information: Ubaid Ullah x64-based PC
+Developer Name: SP25-BCS-134
+OS: Windows_NT x64 10.0.19045
+IDE: Visual Studio Code
+Program Name: --------------
+Version: 1.99.3 (user setup)
+License: MIT License
+Copyright (c) 2015 - present Microsoft Corporation
+Start Date: ----------
+End Date: ------------
+*/
+
+/*
+Purpose: ------------------------------------------------
+*/
+
+/*
+Input:
+Number of Inputs: ---
+Most suitable Data Type: ---
+
+Processing:
+
+1)Classes --> constructors
+2)Classes --> Methods(processing)
+
+
+Output:
+Number of outputs: ---
+Most Suitable Data Type: ---
+
+Number of variable= ---
+Therefore;
+all variables 
+where;
+use of variables
+and;
+use of variables
+where;
+more variables
+
+*/
+
+/*
+PSEUDO CODE:
+
+1. START
+2. END :(
+*/

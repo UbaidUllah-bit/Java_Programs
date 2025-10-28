@@ -1,3 +1,16 @@
+/*
+
+User & System Information: Ubaid Ullah x64-based PC
+Developer Name: SP25-BCS-134
+OS: Windows_NT x64 10.0.19045
+IDE: NotePad
+Program Name: Housing Society Management System
+Version: 1.00
+Start Date: 24/10/25
+End Date: 26/10/25
+
+*/
+
 package sp25_bcs_134;
 
 public class CityDemo{
