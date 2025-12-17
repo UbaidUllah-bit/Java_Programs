@@ -5,7 +5,7 @@ OS: Windows_NT x64 10.0.19045
 IDE: Visual Studio Code
 Program Name: --------------
 Version: 1.99.3 (user setup)
-License: MIT License
+License: No License
 Copyright (c) 2015 - present Microsoft Corporation
 Start Date: ----------
 End Date: ------------

@@ -1,8 +1,8 @@
 public class Parcel{
 
-	protected String ID;
-	protected ParcelType parcel;
-	protected ParcelStatus status;
+	private String ID;
+	private ParcelType parcel;
+	private ParcelStatus status;
 	
 	Parcel(int ID, ParcelType parcel){
 
@@ -29,6 +29,23 @@ public class Parcel{
 
 	}
 
+	public String getId(){
+
+		return ID;
+
+	} 
+
+	public ParcelType getParcelType(){
+
+		return parcel;
+
+	}
+
+	public ParcelStatus getParcelStatus(){
+
+		return status;
+	
+	}
 	@Override
 	public String toString(){
 
